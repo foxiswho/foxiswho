@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My Github Status 🦸
+
+![](https://github-readme-stats.vercel.app/api?username=foxiswho&show_icons=true&show_owner=true&count_private=true)
+
+![](https://activity-graph.herokuapp.com/graph?username=foxiswho&theme=github)
