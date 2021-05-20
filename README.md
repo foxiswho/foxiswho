@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 🍓 技术博客：https://foxwho.blog.csdn.net/
+
+- 🍓 个人网站：https://www.foxwho.com/
+
+- 🍓 php环境套件：http://www.lanmps.com/
+
 ## My Github Status 🦸
 
 ![](https://github-readme-stats.vercel.app/api?username=foxiswho&show_icons=true&show_owner=true&count_private=true)
